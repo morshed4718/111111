@@ -1,6 +1,6 @@
 const fs = require("fs");
 module.exports.config = {
-	name: "Bot",
+	name: "Meow",
     version: "1.1.1",
 prefix: true,
 	permssion: 0,
